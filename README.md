@@ -1,5 +1,5 @@
 # SplashAnimations
-Create some animations on the splash activity To make the application more attractive .
+Create some animations on the splash activity To make the application more attractive uesd Java.
 
 
 ![Splash_Activity](https://user-images.githubusercontent.com/79535029/128209294-8fb42f33-8c71-4a25-9944-02b1f5a5176a.png)
